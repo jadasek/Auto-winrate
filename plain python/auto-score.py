@@ -5,7 +5,6 @@ import pytesseract
 import numpy as np
 from PIL import ImageGrab
 
-private_key = 'd3afjh3hajhvhbf987shalk2j'
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
 
